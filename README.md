@@ -8,6 +8,7 @@ I am an individual validator and enthusiast of Blockchain technology and cryptoi
 
 
 🔸My current TestNet validators
+
 Humans AI https://explorer.humans.zone/humans-testnet/staking/humanvaloper1q9f9tq9v5wsr5w85rrrren0ld5hxntefwmr7ls
 
 Uptick https://uptick.explorers.guru/validator/uptickvaloper1ux5rcchkket2h9dclmj2g572f6ya6ymgxuw0
