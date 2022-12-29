@@ -18,5 +18,8 @@ Uptick https://uptick.explorers.guru/validator/uptickvaloper1ux5rcchkket2h9dclmj
 🔸Socials:  
 
 TG  https://t.me/Staf262800 
+
 Diskord  STAF|#1596
-Twitter https://twitter.com/Staf262800
+
+Twitter https://twitter.com/Staf2628000
+
