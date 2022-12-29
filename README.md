@@ -15,6 +15,8 @@ Nibiru https://nibiru.explorers.guru/validator/nibivaloper175s874fkwssmtgcgv2u0x
 Uptick https://uptick.explorers.guru/validator/uptickvaloper1ux5rcchkket2h9dclmj2g572f6ya6ymgxuw07a
 
 
+
+
 🔸Socials:  
 
 TG  https://t.me/Staf262800 
