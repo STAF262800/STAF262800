@@ -14,6 +14,8 @@ Nibiru https://nibiru.explorers.guru/validator/nibivaloper175s874fkwssmtgcgv2u0x
 
 Uptick https://uptick.explorers.guru/validator/uptickvaloper1ux5rcchkket2h9dclmj2g572f6ya6ymgxuw07a
 
+Taiko http://65.21.189.100:3000/d/L2ExecutionEngine/l2-execution-engine-overview?orgId=1&refresh=5s&from=now-5m&to=now
+
 
 
 
